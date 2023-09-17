@@ -6,3 +6,6 @@
 - `create_table.sql`: Scripts SQL para criação de tabelas.
 - `der_eccomerce.mwb`: Modelo DER do banco de dados.
 
+
+![Modelo DER](snapshot_DER_ecommerce.jpg)
+
